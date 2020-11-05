@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "keythereum": "1.0.4"
+    "keythereum": "1.2.0"
   }
 }
